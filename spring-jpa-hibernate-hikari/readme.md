@@ -1,0 +1,6 @@
+- Java 17.0.3.1
+- Jackson 2.13.3
+- Spring 5.3.21
+- Hibernate 5.6.9
+- MySQL 8.0.29
+- Tomcat 9.0.64
